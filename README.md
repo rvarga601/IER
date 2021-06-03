@@ -6,6 +6,10 @@ For specific information about the system and the general structure of the code 
 
 ## Getting Started
 
+### Methodological information
+
+The code is based on the cart-pole example project in the OpenAI Gym environment. The structure of the code remained the same but the functions are modified to solve the current problem.
+
 ### Prerequisites
 
 Requirements for the software
